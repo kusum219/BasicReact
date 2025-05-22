@@ -1,0 +1,28 @@
+.Accordian-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.accordians{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+.container{
+    border-bottom: 1px solid white;
+}
+.answer{
+    padding: 10px;
+    margin: 10px;
+    color: rgb(172, 179, 185);
+}
+
+
+hr{
+    color: navy;
+    width: 40%;
+;
+}

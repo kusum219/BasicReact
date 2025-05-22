@@ -1,0 +1,46 @@
+.Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+li{
+    list-style:none;
+}
+.todoHeader{
+    margin: 10px;
+    padding: 10px;
+}
+.todoHeader h1{
+    margin: 0px;
+    color: rgb(225, 110, 141);
+}
+.todoHeader input{
+    padding: 10px;
+    margin: 10px;
+    width: 80%;
+    top: 0px;
+    font-size: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid rgb(21, 75, 117);
+}
+
+button{
+padding: 10px;
+margin: 10px;
+background-color: rgba(234, 9, 9, 0.792);
+border: none;
+color: white;
+border-radius: 10px;
+}
+
+label{
+    text-decoration: none;
+}
+.for-flex{
+    display: flex;
+}
+.for-flex button{
+    background-color: rgb(199, 90, 155);
+}
